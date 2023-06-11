@@ -1,2 +1,22 @@
-# FoodNest
-FoodNest responsive Food ordering app with simple Interactive UI.  ✅ Shimmer ✅ Data fetching from the Swiggy app ✅ All the restaurant details with their menus ✅ Region-wise and Restaurant filters ✅ Infinite scrolling ✅ Adding items to the cart based on the restaurant ✅ Customizable restaurant items ✅ And Recent searches.
+FoodNest. Click below link to go live
+https://foodnest.netlify.app/
+
+OR
+You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+
+git clone "https://github.com/Mohammedharoonw/FoodNest.git" Go to the project directory
+
+Install dependencies
+
+npm install
+
+Start the server
+
+npm run start
+
+Happy hacking......
+
+Note . if Menu data take time to load then
+Add CORS extention to chrome  Now every part of application will run fine
+
+Thank you
