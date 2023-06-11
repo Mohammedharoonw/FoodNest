@@ -2,6 +2,7 @@ FoodNest. Click below link to go live
 https://foodnest.netlify.app/
 
 OR
+.
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 git clone "https://github.com/Mohammedharoonw/FoodNest.git" Go to the project directory
